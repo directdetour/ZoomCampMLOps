@@ -160,3 +160,6 @@ cython_debug/
 #.idea/
 
 data/
+week2/*.parquet
+week2/output/
+week2/mlartifacts/
