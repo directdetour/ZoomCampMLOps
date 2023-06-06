@@ -163,3 +163,7 @@ data/
 week2/*.parquet
 week2/output/
 week2/mlartifacts/
+wandb-workshop/artifacts/
+wandb-workshop/output/
+wandb-workshop/wandb/
+wandb-workshop/*.pkl
