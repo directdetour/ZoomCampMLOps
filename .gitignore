@@ -211,3 +211,7 @@ mlruns/1/d6aa5ebeb92c43b48074c5210dc2c51b/artifacts/models_mlflow/requirements.t
 mlruns/1/d6aa5ebeb92c43b48074c5210dc2c51b/artifacts/preprocessor/preprocessor.b
 models/preprocessor.b
 mlflow.db
+week4/homework/output/yellow_tripdata_2022-02.parquet
+week4/homework/output/yellow_tripdata_2022-03.parquet
+week4/homework/yellow_tripdata_2022-04.parquet
+mlflow.db
